@@ -1,0 +1,110 @@
+.card {
+    border: 2px solid rgb(210, 210, 255);
+    padding: 20px;
+    width: 400px;
+    margin: 0 auto;
+}
+
+.card-header {
+    font-weight: bold;
+    text-align: left;
+    margin-bottom: 10%;
+    color: #5A5E64;
+}
+
+
+.card-header img {
+    display: block;
+    margin: 0 auto;
+    width: 30%;
+}
+
+.form-row {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 3%;
+    color: #999B9F
+}
+
+.FirsName {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 7%;
+    color: #999B9F
+}
+
+.FirsName input {
+    width: 70%;
+    margin-top: 10%;
+    padding: 5%;
+    border: 1px solid #dfe9fc;
+    border-radius: 9%;
+}
+.Name{
+    display: flex;
+    flex-direction: column;
+
+}
+.Last {
+    display: flex;
+    flex-direction: column;
+}
+
+.City-State {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 7%;
+    color: #999B9F
+}
+.City{
+    display: flex;
+    flex-direction: column;
+}
+.State{
+    display: flex;
+    flex-direction: column;
+}
+.City-State input {
+    width: 70%;
+    margin-top: 9%;
+    padding: 5%;
+    border: 1px solid #e0ebfe;
+    border-radius: 9%;
+}
+
+.ZipCode {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 7%;
+    color: #999B9F
+}
+.Zip{
+    display: flex;
+    flex-direction: column;
+}
+.Country{
+    display: flex;
+    flex-direction: column;
+}
+.ZipCode input {
+    width: 70%;
+    margin-top: 9%;
+    padding: 5%;
+    border: 1px solid #dfe9fc;
+    border-radius: 9%;
+}
+
+.form-row label {
+    margin-bottom: 5%;
+}
+
+.form-row input {
+    padding: 2%;
+    border: 1px solid #dfe9fc;
+    border-radius: 9%;
+}
+
+.form-row input[type='password'] {
+    font-family: monospace;
+    
+}
