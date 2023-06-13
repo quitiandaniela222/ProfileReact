@@ -1,70 +1,47 @@
-# Getting Started with Create React App
+<h1 align="center"> Edit Profile - Form </h1>
+<br>
+Project Description: <br> <br>
+This project is a profile edit form developed using events in React, CSS, and HTML. It provides an intuitive and easy-to-use interface for users to edit and update their personal information. <br>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Thank you for visiting!
 
-## Available Scripts
+## :hammer: Key features of the project
 
-In the project directory, you can run:
+- ` Data editing:` Users can complete and edit different fields, such as name, address, phone number, email, among others.
+- ` Data validation:` The form includes data validation to ensure that the information entered is correct and meets the established requirements.
+- `Intuitive interface:` The design and organization of the elements in the form have been taken care of to offer an intuitive and pleasant user experience. <br>
 
-### `npm start`
+## 📁 Project Access
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+**Building and operating this Cryptocurrency Tracking Project with Real Time Charts in your local development environment is very easy. Make sure you have Git and Node.js installed and follow the instructions below.**<br>
+- `Clone the source code`
+git clone https://github.com/quitiandaniela222/ProfileReact.git
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- `Install development dependencies`
+Note: Check the package.json engine for our tested and supported node versions.
+npm install 
 
-### `npm test`
+- `Run a local development server`
+npm start 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Used Technology
+- `HTML`
+- `CSS`
+- `REACT.JS`
 
-### `npm run build`
+## Contribution
+<h4> Contributions are welcome! If you would like to contribute to this project, follow these steps: </h4> <br>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Create a fork of this repository.
+- Create a new branch for your feature: git checkout -b new-feature
+- Make the necessary changes and commit them: git commit -m "Add new feature"
+- Push the branch: git push origin new-feature
+- Create a pull request in this repository.
+- We look forward to your valuable contributions to improve this project.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Author
+|        |              |
+|--------|--------------|
+| <img src="https://avatars.githubusercontent.com/u/124717657?v=4" width=115><br> |
+| Daniela Quitian |
